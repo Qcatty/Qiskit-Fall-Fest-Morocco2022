@@ -11,7 +11,7 @@ Here are some possible ideas:
 Quantum game design, Paper implementation, Quantum Machine Learning, etc.
 
 # Hackathon Schedule
-All times are in the Paris time zone (CET).
+All times are in the Paris time zone (GMT+1).
 
 
 | Inscription                             |                 |
@@ -33,15 +33,15 @@ Please fill in this Google Form for registration. You are welcome to register as
 
 All the participants will be invited to a Discord channel before the Hackathon.
 
-Speakers
+# Speakers
 William D. Oliver( MIT ) talk is going to be about Engineering superconducting Qubit
 Pawel Gora ( Quantum AI Foundation) talk is going to be an Introduction to Quantum machine learning
 Marlou Slot (NIST: National Institute of standards and technology ) talk is going to be about Womium program
 Abdallah Slaoui : Quantum Information
 
-Important notes
+# Important notes
 You are welcome to participate to our kick-off event physically on Tuesday afternoon 27th of October, at around 1 PM. We will announce the address once it's confirmed.
 We will hold three Qiskit workshops before the hackathon. The first one is to help you install Qiskit and introduce the basis knowledge about quantum computing. It will last two hours. The second one is two hours fully Q&A session and then the the third is about 3h QML. You are welcome to ask any questions. The two workshops will be recorded so don't worry that you miss one of them! If you are a beginner in Quantum Computing or not familiar with Qiskit, just attend the Qiskit workshops!
 The winning teams will obtain prizes and have the probability to be invited to the Qiskit Global Hackathon!
-Contact information
+# Contact information
 If you have any questions about the Hackathon, feel free to contact Khadija Ech-challaouy (discord : kadija#3118) or Nouhiala Innan (Innanov#7995).
