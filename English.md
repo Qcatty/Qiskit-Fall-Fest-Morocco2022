@@ -35,8 +35,11 @@ All the participants will be invited to a Discord channel before the Hackathon.
 
 # Speakers
 William D. Oliver( MIT ) talk is going to be about Engineering superconducting Qubit
+
 Pawel Gora ( Quantum AI Foundation) talk is going to be an Introduction to Quantum machine learning
+
 Marlou Slot (NIST: National Institute of standards and technology ) talk is going to be about Womium program
+
 Abdallah Slaoui : Quantum Information
 
 # Important notes
